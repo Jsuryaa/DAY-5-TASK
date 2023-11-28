@@ -58,6 +58,7 @@ let resume={
 }
 console.log(resume);
 
+// QUESTION 3:
 
 //  Read about the difference between window, screen, and document in javascript
 
